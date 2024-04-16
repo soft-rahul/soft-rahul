@@ -1,4 +1,36 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Software Engineer.
+
+
+
+
+
+
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soft-rahul&count_private=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soft-rahul)](https://github.com/soft-rahul/github-readme-stats)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soft-rahul&theme=tokyonight)](https://git.io/streak-stats)
+<!--
+**soft-rahul/soft-rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **soft-rahul/soft-rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
